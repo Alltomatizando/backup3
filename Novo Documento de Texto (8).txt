@@ -1,0 +1,6 @@
+{
+        "id":  "Supabase ND Holding",
+        "name":  "U2FsdGVkX1+Mz75GwllupWfL2bh0ieMHve/VR+/BlfT/d5m3toJaYF0K3zswLe5sGMNQ1cUtwr9QIesmGmeLHUN2Wm0sE4kbl2iFX6B+SYEN6K8aZ+/wW9zDgyQZukAJW2Z+M0tnq9xvi3gZ4EjiHkvCHumxupBvNt/XtgWx/D4=",
+        "data":  "supabaseApi",
+        "type":  "2025-12-22 02:18:24.026-03"
+    }

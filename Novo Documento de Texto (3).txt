@@ -1,0 +1,6 @@
+{
+        "id":  "Header Auth account 9",
+        "name":  "U2FsdGVkX19KW+Ec8zoCFMTupujR3JJThh/jPLDLPzg1W7hs+CvhySbXfcXVye0S5smcYxSV7BSX16f5gFRYUTY4oR2VmEfQ4BYJiG2mOI58fg5lBTivQOeEQ99EUn7YJWkiHXsD9uI4TzHedQGgSQ==",
+        "data":  "httpHeaderAuth",
+        "type":  "2025-12-24 13:45:54.142-03"
+    }

@@ -1,0 +1,7 @@
+{
+        "id":  "n8n Alltomatizando",
+        "name":  "U2FsdGVkX18tyYYqvmD3d5jrg/RPpqOVpNmgP63oOj516vChTxSAsXRX5MVow+ZFaLVB9Glv2e03mMBEqd6EJ2G7h+vIRCQFgcuv8lRWrFIDiUURpW1OLBJxi4L+Z4jfrP75EEQK0pXzDYPWBQ4lIDQM+2F8s88FIAv3ebKFPLuaexUZTDdH2XQtDOjvW93FtYmtOV1mHaBPgeX1deZrUJSMYxReVIiTRJ+ZETX+56uXmnYjOwH6YEBUPGJhtM0igEt3mj81AirpxGib+CBAqXGm+hKkdBFSS4vfVzwJvuMoNCtgGw9Cg6tFT+o8TzCYHeYfZGyo6lf0l4DKYUIdJvCPUqbh38J5rPiAvb/g3OXSvsfKcNbPSLqBNjtmqNg2",
+        "data":  "n8nApi",
+        "type":  "2025-12-18 23:04:16.898-03"
+   }
+    

@@ -1,0 +1,6 @@
+ {
+        "id":  "Header Auth Alltomatizando",
+        "name":  "U2FsdGVkX1/sI/GHiMq6hkzD951rKjI64GQHzDhc8qtV7sKg1zMZEASDClMt5Fnpy/y9Uzc3nDYhE6tVsgxmuvVf63A+BzXJR8wAj1EQ5hLL5o+pCpPW3FMq2D5xENVDra4SMkROVtGkSV4yhYw3efuFuhdVpqWIS0NfTat5cdcxBxj/SGCQ3sepbtpv96Ee6xU/v5X5BRb0RiDF7S6FWl1yJdSE15c1kZ6IQ/xJISjfTPemypEnVfff8zbnlmYhRtIgLP/8cCED4zwUA+OzILlihk2JXdd8GvbfFkpYxOhTjpWtA/ifUClD06sPdZkbwDwOGWIpops1GXHEnUiRHCR/amT/yiB4HOjZgmkazTP8PDEscTZ6vzdFXoORmikLx+J1Z9AlENnwqfmsNDRIPFPt9ab6WX1GbO944x+NTppKv8dmcnpQqBAYM8aEnkDEqEvcBMQbJZEZY/5oDiwT4w==",
+        "data":  "httpHeaderAuth",
+        "type":  "2025-12-19 00:25:51.265-03"
+    }

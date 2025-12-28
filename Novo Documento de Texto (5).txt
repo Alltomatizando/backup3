@@ -1,0 +1,6 @@
+{
+        "id":  "Unnamed credential",
+        "name":  "U2FsdGVkX18WqZbtseg2Emp/q5U1ltWDuIccXzslm7AjeIFkwG4jD+XtRQQeXVdWDhwIIa3SsXwoobQNBAItPg==",
+        "data":  "httpBasicAuth",
+        "type":  "2025-12-23 19:53:54.733-03"
+    }

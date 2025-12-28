@@ -1,0 +1,6 @@
+{
+        "id":  "Airtable - ND Holding",
+        "name":  "U2FsdGVkX19tZC5Ziy5o7YgfPjQimqPRnJSmXI2J+JTJLwwngE5wvuKrDVp5hNieSCGvqb/OCIxZOTl4EEpeLeNsMPJFtX7g/wDTSvnjrMa91QAAhM4f10UXaovZfwZ4+bDXCW97C3G31sNdbQR2TQuYE1Fx1EouCk4f9ae5WqQ=",
+        "data":  "airtableTokenApi",
+        "type":  "2025-12-20 20:45:18.264-03"
+    }

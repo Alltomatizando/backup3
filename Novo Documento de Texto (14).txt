@@ -1,0 +1,6 @@
+{
+        "id":  "ChatWoot account",
+        "name":  "U2FsdGVkX1/wVcbpL0Snry81oKUqWO0BHy/JiKSP7vsRJJrVXpIGKAlvhXMAktwsymSzMhjfrsjIdcbYlnEmPiEz3WNlklG7fz+t/b/5YwlVtlCGvcV9CIv2QGWR0kA7qMUwfGFVEEIU5QUAuwqCSg==",
+        "data":  "chatwootApi",
+        "type":  "2025-12-19 01:05:40.506-03"
+    }

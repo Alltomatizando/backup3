@@ -1,0 +1,6 @@
+{
+        "id":  "Redis account",
+        "name":  "U2FsdGVkX1+tNFbxYvTYeAd9xnvGilqOd4yOuBBoJ2kg0dVU6FuboiwfZjtdtzpYQNv1o94+VGsnsQ+Yz7J1Nx2+/Un/6f5rzqRbfeSTwXj4pV1uNSkoTJzzBeJWkBvq",
+        "data":  "redis",
+        "type":  "2025-12-23 18:57:19.296-03"
+    }

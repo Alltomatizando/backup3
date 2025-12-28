@@ -1,0 +1,6 @@
+{
+        "id":  "GitHub Alltomatizando",
+        "name":  "U2FsdGVkX18rPGBTwmdJMcevne6Wcmj+pkfiZU75AV9+BwO2WN6XH5SExKWJSmAv0A+8jAMRmr1vtPx0owm0rJWSbN8mj0i+GHdfXneJn/qCLdU20fLI1mizr1uAl2nBOoikcmRczcl8GZVBTWKYnw==",
+        "data":  "githubApi",
+        "type":  "2025-12-18 23:03:23.953-03"
+    }
