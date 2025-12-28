@@ -1,0 +1,140 @@
+﻿[
+    {
+        "id":  "SerpAPI Alltomatizando",
+        "name":  "U2FsdGVkX18Xn4oqlPQaATIRx7oFtIlrWIDgGdLhG4fH0HAzgjC3nX107QB+F8YcBsYomiCkKMu+S9dAC68BoOCxNhYZZoHpdghSC9mJrLjxaM8TxiOQ8soqjdeRJoDg",
+        "data":  "serpApi",
+        "type":  "2025-12-19 00:25:51.28-03"
+    },
+    {
+        "id":  "OpenAi Alltomatizando",
+        "name":  "U2FsdGVkX1+rQiKdZscV2sYZrj/zJizu/P+hqw0dxQBF98YPnqlFYIj9FMZE5VEp7UygCTUMVzzI9THUyk9MG3cA6hBoJvof7tXyHkxKBHYybWrAt7Sr4N4E9hxAS1/q/mPXEpjO7GojngRJEFS9TrpDdkq1+KCB0R1EZ/ugzV25zurh3J9wSXmhD+GDz5OV8dcfCnmnm6cPOHyl2ERnTIu7Ncebol9UJhhalvikaR+2e9y9CzU5ZHBdP7OJoQYgjF7v1UQ46NYZKN361+nS/A==",
+        "data":  "openAiApi",
+        "type":  "2025-12-19 00:43:18.935-03"
+    },
+    {
+        "id":  "Supabase Alltomatizando",
+        "name":  "U2FsdGVkX19SsQj4xv42iyBxYcORmBNofDBCLKgw5494FLeqIAGzpUqzSVqjPcG32NoVhKvjCiwYf5bA4dYS6XDL/mQ4jlkRlhDNQDGbPn2BnOF2FIFwYk0HOSoLF7NjhcMfas4OOeNRiihA+DtUdCejiWPJcOUees/XD1g4O04GuIQyJaMNGThJ3XIZ+axR3X0JsrU0mIrfDk6Fvb3x4Ub8tG/c0ggcOFTntn/3DXTRXkBJ31nL1cPmDy3ZEbdXEiIiMw0IhXxEehrNLZbKDDz2+CLrypghap5jnNNYKuNnwEX26ZSc/vsNxf5xQVfVRty/iofPSb3r1zlq6gqXCfmi8AwoeZRcrpxebgYdlB1Q8aFpjCrYcEDfvpQrBJdUgLE2Ol9Mzbfhfft1/R2dlw==",
+        "data":  "supabaseApi",
+        "type":  "2025-12-19 00:25:51.269-03"
+    },
+    {
+        "id":  "Header Auth Alltomatizando",
+        "name":  "U2FsdGVkX1/sI/GHiMq6hkzD951rKjI64GQHzDhc8qtV7sKg1zMZEASDClMt5Fnpy/y9Uzc3nDYhE6tVsgxmuvVf63A+BzXJR8wAj1EQ5hLL5o+pCpPW3FMq2D5xENVDra4SMkROVtGkSV4yhYw3efuFuhdVpqWIS0NfTat5cdcxBxj/SGCQ3sepbtpv96Ee6xU/v5X5BRb0RiDF7S6FWl1yJdSE15c1kZ6IQ/xJISjfTPemypEnVfff8zbnlmYhRtIgLP/8cCED4zwUA+OzILlihk2JXdd8GvbfFkpYxOhTjpWtA/ifUClD06sPdZkbwDwOGWIpops1GXHEnUiRHCR/amT/yiB4HOjZgmkazTP8PDEscTZ6vzdFXoORmikLx+J1Z9AlENnwqfmsNDRIPFPt9ab6WX1GbO944x+NTppKv8dmcnpQqBAYM8aEnkDEqEvcBMQbJZEZY/5oDiwT4w==",
+        "data":  "httpHeaderAuth",
+        "type":  "2025-12-19 00:25:51.265-03"
+    },
+    {
+        "id":  "Airtable Alltomatizando",
+        "name":  "U2FsdGVkX1++8v7F/1rt7RvT+KUxw55Gn5T5/60ySBTPRqnx1esyRD+fMjFYmzTbcGYVyab+cr7QyAg6KSL2+I5JHS3+PJKHrwjdPioWYnE/G8ioby9JfuZ0neTUjjFw5ztOALuawweyCCLcsEP1gVR1RVvqnU+hpZd35CRoPmY=",
+        "data":  "airtableTokenApi",
+        "type":  "2025-12-19 00:25:50.968-03"
+    },
+    {
+        "id":  "Action Network Alltomatizando",
+        "name":  "U2FsdGVkX1/DKcuuKulGMt7bHD76px6tGtmbzcY3cLAdVFuFOeX/vMzhY3nz3udHU97QCGu8b65eVRNts3rk9g==",
+        "data":  "actionNetworkApi",
+        "type":  "2025-12-19 00:25:50.269-03"
+    },
+    {
+        "id":  "n8n Alltomatizando",
+        "name":  "U2FsdGVkX18tyYYqvmD3d5jrg/RPpqOVpNmgP63oOj516vChTxSAsXRX5MVow+ZFaLVB9Glv2e03mMBEqd6EJ2G7h+vIRCQFgcuv8lRWrFIDiUURpW1OLBJxi4L+Z4jfrP75EEQK0pXzDYPWBQ4lIDQM+2F8s88FIAv3ebKFPLuaexUZTDdH2XQtDOjvW93FtYmtOV1mHaBPgeX1deZrUJSMYxReVIiTRJ+ZETX+56uXmnYjOwH6YEBUPGJhtM0igEt3mj81AirpxGib+CBAqXGm+hKkdBFSS4vfVzwJvuMoNCtgGw9Cg6tFT+o8TzCYHeYfZGyo6lf0l4DKYUIdJvCPUqbh38J5rPiAvb/g3OXSvsfKcNbPSLqBNjtmqNg2",
+        "data":  "n8nApi",
+        "type":  "2025-12-18 23:04:16.898-03"
+    },
+    {
+        "id":  "GitHub Alltomatizando",
+        "name":  "U2FsdGVkX18rPGBTwmdJMcevne6Wcmj+pkfiZU75AV9+BwO2WN6XH5SExKWJSmAv0A+8jAMRmr1vtPx0owm0rJWSbN8mj0i+GHdfXneJn/qCLdU20fLI1mizr1uAl2nBOoikcmRczcl8GZVBTWKYnw==",
+        "data":  "githubApi",
+        "type":  "2025-12-18 23:03:23.953-03"
+    },
+    {
+        "id":  "ChatWoot account",
+        "name":  "U2FsdGVkX1/wVcbpL0Snry81oKUqWO0BHy/JiKSP7vsRJJrVXpIGKAlvhXMAktwsymSzMhjfrsjIdcbYlnEmPiEz3WNlklG7fz+t/b/5YwlVtlCGvcV9CIv2QGWR0kA7qMUwfGFVEEIU5QUAuwqCSg==",
+        "data":  "chatwootApi",
+        "type":  "2025-12-19 01:05:40.506-03"
+    },
+    {
+        "id":  "Twilio account",
+        "name":  "U2FsdGVkX18pv3OoX4OvhNk13opMbSEXO4OWUJdzhybbjlI84r73OKd0Ah0QXurYr4D1EXyhFal9H/YD6L8jloO9HMgLCCxFdTr6HPC48hdOv7795ujkknusADmJABs1dMeHprGglXxl0mdYXoB3/u0Aaw5OY963rjS2tYMKabU=",
+        "data":  "twilioApi",
+        "type":  "2025-12-19 16:17:53.724-03"
+    },
+    {
+        "id":  "Postgres account",
+        "name":  "U2FsdGVkX19lcpdv/UYWaXEIEc/kBPDpGNACHT3F4VYH+aDZ47Y2Un8rrAvFkoS0gKYDbAmtdkaf6WFZPXqhW7i3C3GbfRJbkM/0khLhN2nSqSpN0/xyoET5b7NJ/qaLkEGcYN+lWjzqfotbq/h5FNrQ+YK4GrSg09LVQg+u0n8=",
+        "data":  "postgres",
+        "type":  "2025-12-19 00:56:08.926-03"
+    },
+    {
+        "id":  "ElevenLabs - Alltomatizando",
+        "name":  "U2FsdGVkX1+3C/kygX651evZ3wpvnwOX5cqB5JUdTqswImKVQVuMPXowkA0JOKQBpFvogQqsbzZ0ghYmFcBWQiDGwmv3c2qyw+2bs5EuNFKfpKXSKzI2zhLe6ne4T1sR",
+        "data":  "elevenLabsApi",
+        "type":  "2025-12-20 04:31:23.165-03"
+    },
+    {
+        "id":  "Airtable - ND Holding",
+        "name":  "U2FsdGVkX19tZC5Ziy5o7YgfPjQimqPRnJSmXI2J+JTJLwwngE5wvuKrDVp5hNieSCGvqb/OCIxZOTl4EEpeLeNsMPJFtX7g/wDTSvnjrMa91QAAhM4f10UXaovZfwZ4+bDXCW97C3G31sNdbQR2TQuYE1Fx1EouCk4f9ae5WqQ=",
+        "data":  "airtableTokenApi",
+        "type":  "2025-12-20 20:45:18.264-03"
+    },
+    {
+        "id":  "FinanceHub",
+        "name":  "U2FsdGVkX1+ju0W6B0Nchjj9GiUuh2xCpKhiGJwOr85osZQC/V8il3jMMh02D1m5DMfOYUzU/ZOWOu5IQrYbAADPq1k62gUK0WCIbU3isx7PhAtgAJhSO/7ILJoxD1CSnijyiiYCObgYln4TGX1UYGrHrwdaKdD11iQovgvKL/0ug0i2OlTxc4s5oY7An7lpPp4AIyYKWKxFfuNKRfiZct1luod5FohVYoOmDza3ZbWcFnc7CoW/HkrCb17YtYpiK5ApfPt7c0b0/+gEQzFZXQ==",
+        "data":  "openAiApi",
+        "type":  "2025-12-20 18:20:47.975-03"
+    },
+    {
+        "id":  "Supabase ND Holding",
+        "name":  "U2FsdGVkX1+Mz75GwllupWfL2bh0ieMHve/VR+/BlfT/d5m3toJaYF0K3zswLe5sGMNQ1cUtwr9QIesmGmeLHUN2Wm0sE4kbl2iFX6B+SYEN6K8aZ+/wW9zDgyQZukAJW2Z+M0tnq9xvi3gZ4EjiHkvCHumxupBvNt/XtgWx/D4=",
+        "data":  "supabaseApi",
+        "type":  "2025-12-22 02:18:24.026-03"
+    },
+    {
+        "id":  "FinanceHub",
+        "name":  "U2FsdGVkX1/kmbZPk3KJ+ufFvcFjz5ZvaJnJjE5XGHXdwUhzna4n8cXskJaBmvLH1rdhPY4+F/TDbpBBlLqzCcelQCAY40rZ9VtYvaLEyQEQTBmFiKJ9oyBc2BUP7WP4LepAHPl/3TOfN4wuune8yrBpxAI1zVh0Iz/UMxSCmCM=",
+        "data":  "postgres",
+        "type":  "2025-12-20 18:03:57.665-03"
+    },
+    {
+        "id":  "Google Drive Alltomatizando",
+        "name":  "U2FsdGVkX18vFwSPgO7lqPkzU5tD9qWAeSdDGfWnOSWfxgs+n+UOvaOXJWl7TQsyGcwyIMLiC1Kl8Gsj81yjGr0r61dExRSIgVyTyszVo+wSgy3vZAuPdwt3UVQQb03ga7EDr5sdzQ9KU59rouJiYrO3ngrP1aGsNvMYweHS9sMRWK/HYJzSSZclFh5cGXqKWOBWitTwtbz1GFavyatkFvytGoSUrS6d9TC/srV5VaZIpX2PS831J+SlTxwGivMNH1zn99YhF2OHP8zq+yZOUep/PMo9tL9z03yXgIN1H4u3vv4wJH4xWW/xn1uul/3VUnOmec0qOLdaOpksmy6Dg5baNgwRxLH5+sL5pevYP55i/9Yntu0zvfZ0sMwgja9VYMW0DyrTGS8aZhPZUeBy876J6wM4lODN9o46ysMPgBOj1MqyRlPi9ZWYKojRnH5ooUyZWa9Fgi2PjQLZwWIbzfRbXXxzmMCvyt6d8X/rxiIw7rzYPmFZVzqE5rnifw2FSj9V/UyAM11y9PzApANZpcBiNnWZxZoMA2m3GEsXXFCfYbUYruBArus80lF1K9TVoyf5EioYh0jkm/QBVvr3T6OvUZwHb3QkGJEYNDLdtLgH8hmWVcqEwu86ytcvXkGPjguRv+f+aNvodZdxAIE2oy5qx+ZMfeTlKzHfdcbXBBLBcwaDaVMynjWx1fmG5BBR5LAZJdMtJvSslocFfM3GSg776ujDXddxUZuiKm1qfnBF/5bueOwkyXMkTXWBf+R8OhpqQ3TE3zmZQgn0EmY01nyr+VzEuy5ghSHP6dbxFif4wpLJ9Hvao396oNUnI5dqfwm5kC6Q+jaZk7zGsO3o3jWekzljcDQDrXqdjbGXNcuyQTRH2wvUNxHgLX0/swWD0oPGykl0b7d4SqPSm3s9njXLCq3J5ujDMYW8XUDYxls7IKvT2Pb8lmWa34E4wzllqD2Db9sbLpgy/j+gqHbRh/5R1V8Hc3JUNl7JUSl2vqG1yPxRWWg3OVX9MeoIJ+9LthiARexsrKHNyQ/dxLfuWzJMXa3GCWRqmU+9eKJMZquZDnpYNW6RV1wzHj1ZOnplCnbuIq+ahm43G9PJNpUltMFPV20AU0SLmiXwr9YdVCUSKp2l9mMT8tkA2m3GgVsEOOgf8ZZv4W7crGzkfKRQ/Op6KMf7UkMlW2yVfGHwzR/e5rXLqI5dJvjEbXYs678cmMU6G+0hFU76pHzJV5dBvOg/h+SGR4P3FLKVSbQf4xSagvcvIIxNgdZIiKvJqt+9QpUBjWsh56JVQOWB3mcv2w==",
+        "data":  "googleDriveOAuth2Api",
+        "type":  "2025-12-20 06:06:45.495-03"
+    },
+    {
+        "id":  "Header Auth Pagar.me estimulante",
+        "name":  "U2FsdGVkX1/rNwJVkiNW8U5SJOtadLNuX1zFz4NWJ1u7C06iIUvy4qagI4L9LbykXkbkxXCXluEHBNiPzpNYZYevb9gnwl+pZblUEImm+XYsgpM7CRy5pOhwL5LYfKBP",
+        "data":  "httpHeaderAuth",
+        "type":  "2025-12-23 19:44:03.693-03"
+    },
+    {
+        "id":  "Unnamed credential",
+        "name":  "U2FsdGVkX18WqZbtseg2Emp/q5U1ltWDuIccXzslm7AjeIFkwG4jD+XtRQQeXVdWDhwIIa3SsXwoobQNBAItPg==",
+        "data":  "httpBasicAuth",
+        "type":  "2025-12-23 19:53:54.733-03"
+    },
+    {
+        "id":  "Redis account",
+        "name":  "U2FsdGVkX1+tNFbxYvTYeAd9xnvGilqOd4yOuBBoJ2kg0dVU6FuboiwfZjtdtzpYQNv1o94+VGsnsQ+Yz7J1Nx2+/Un/6f5rzqRbfeSTwXj4pV1uNSkoTJzzBeJWkBvq",
+        "data":  "redis",
+        "type":  "2025-12-23 18:57:19.296-03"
+    },
+    {
+        "id":  "Header Auth account 9",
+        "name":  "U2FsdGVkX19KW+Ec8zoCFMTupujR3JJThh/jPLDLPzg1W7hs+CvhySbXfcXVye0S5smcYxSV7BSX16f5gFRYUTY4oR2VmEfQ4BYJiG2mOI58fg5lBTivQOeEQ99EUn7YJWkiHXsD9uI4TzHedQGgSQ==",
+        "data":  "httpHeaderAuth",
+        "type":  "2025-12-24 13:45:54.142-03"
+    },
+    {
+        "id":  "Unnamed credential 2",
+        "name":  "U2FsdGVkX18GPwGyYQjBa1CQ9Ki/lB2+HFxlwOJJC/Zp4vueCr8vneyuj9QagB79aL0xaFU8vAITAS+31gzQeQ==",
+        "data":  "httpBasicAuth",
+        "type":  "2025-12-23 20:16:36.769-03"
+    },
+    {
+        "id":  "Google Gemini(PaLM) Api account",
+        "name":  "U2FsdGVkX19d8Z1RCD5F+yxAca2HeFK6bHuwEw+uGhAs5JqnXCcHDv/kPT32rCM8KRqZI4J6nZl6y23eKH415w==",
+        "data":  "googlePalmApi",
+        "type":  "2025-12-26 18:37:54.296-03"
+    }
+]
