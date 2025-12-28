@@ -1,0 +1,6 @@
+{
+        "id":  "FinanceHub",
+        "name":  "U2FsdGVkX1+ju0W6B0Nchjj9GiUuh2xCpKhiGJwOr85osZQC/V8il3jMMh02D1m5DMfOYUzU/ZOWOu5IQrYbAADPq1k62gUK0WCIbU3isx7PhAtgAJhSO/7ILJoxD1CSnijyiiYCObgYln4TGX1UYGrHrwdaKdD11iQovgvKL/0ug0i2OlTxc4s5oY7An7lpPp4AIyYKWKxFfuNKRfiZct1luod5FohVYoOmDza3ZbWcFnc7CoW/HkrCb17YtYpiK5ApfPt7c0b0/+gEQzFZXQ==",
+        "data":  "openAiApi",
+        "type":  "2025-12-20 18:20:47.975-03"
+    }

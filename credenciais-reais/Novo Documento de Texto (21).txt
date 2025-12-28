@@ -1,0 +1,6 @@
+ {
+        "id":  "OpenAi Alltomatizando",
+        "name":  "U2FsdGVkX1+rQiKdZscV2sYZrj/zJizu/P+hqw0dxQBF98YPnqlFYIj9FMZE5VEp7UygCTUMVzzI9THUyk9MG3cA6hBoJvof7tXyHkxKBHYybWrAt7Sr4N4E9hxAS1/q/mPXEpjO7GojngRJEFS9TrpDdkq1+KCB0R1EZ/ugzV25zurh3J9wSXmhD+GDz5OV8dcfCnmnm6cPOHyl2ERnTIu7Ncebol9UJhhalvikaR+2e9y9CzU5ZHBdP7OJoQYgjF7v1UQ46NYZKN361+nS/A==",
+        "data":  "openAiApi",
+        "type":  "2025-12-19 00:43:18.935-03"
+    }

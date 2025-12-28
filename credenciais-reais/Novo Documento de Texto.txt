@@ -1,0 +1,6 @@
+{
+        "id":  "Google Gemini(PaLM) Api account",
+        "name":  "U2FsdGVkX19d8Z1RCD5F+yxAca2HeFK6bHuwEw+uGhAs5JqnXCcHDv/kPT32rCM8KRqZI4J6nZl6y23eKH415w==",
+        "data":  "googlePalmApi",
+        "type":  "2025-12-26 18:37:54.296-03"
+}
